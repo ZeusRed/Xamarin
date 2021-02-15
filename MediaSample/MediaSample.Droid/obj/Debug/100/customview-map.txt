@@ -1,0 +1,2 @@
+external-files-path;obj\Debug\100\res\xml\file_paths.xml
+paths;obj\Debug\100\res\xml\file_paths.xml

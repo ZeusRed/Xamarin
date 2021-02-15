@@ -1,0 +1,11 @@
+C:\Users\Acer ES 15\Documents\GitHub\MediaPlugin\samples\MediaSample\MediaSample\bin\Debug\netstandard2.0\MediaSample.deps.json
+C:\Users\Acer ES 15\Documents\GitHub\MediaPlugin\samples\MediaSample\MediaSample\bin\Debug\netstandard2.0\MediaSample.dll
+C:\Users\Acer ES 15\Documents\GitHub\MediaPlugin\samples\MediaSample\MediaSample\bin\Debug\netstandard2.0\MediaSample.pdb
+C:\Users\Acer ES 15\Documents\GitHub\MediaPlugin\samples\MediaSample\MediaSample\obj\Debug\netstandard2.0\MediaSample.csprojAssemblyReference.cache
+C:\Users\Acer ES 15\Documents\GitHub\MediaPlugin\samples\MediaSample\MediaSample\obj\Debug\netstandard2.0\MediaPage.xaml.g.cs
+C:\Users\Acer ES 15\Documents\GitHub\MediaPlugin\samples\MediaSample\MediaSample\obj\Debug\netstandard2.0\MediaSample.AssemblyInfoInputs.cache
+C:\Users\Acer ES 15\Documents\GitHub\MediaPlugin\samples\MediaSample\MediaSample\obj\Debug\netstandard2.0\MediaSample.AssemblyInfo.cs
+C:\Users\Acer ES 15\Documents\GitHub\MediaPlugin\samples\MediaSample\MediaSample\obj\Debug\netstandard2.0\MediaSample.csproj.CoreCompileInputs.cache
+C:\Users\Acer ES 15\Documents\GitHub\MediaPlugin\samples\MediaSample\MediaSample\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Acer ES 15\Documents\GitHub\MediaPlugin\samples\MediaSample\MediaSample\obj\Debug\netstandard2.0\MediaSample.dll
+C:\Users\Acer ES 15\Documents\GitHub\MediaPlugin\samples\MediaSample\MediaSample\obj\Debug\netstandard2.0\MediaSample.pdb

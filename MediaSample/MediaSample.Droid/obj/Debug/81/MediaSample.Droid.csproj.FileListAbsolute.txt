@@ -1,0 +1,6 @@
+C:\Users\Acer ES 15\Documents\GitHub\MediaPlugin\samples\MediaSample\MediaSample.Droid\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\Acer ES 15\Documents\GitHub\MediaPlugin\samples\MediaSample\MediaSample.Droid\obj\Debug\81\build.props
+C:\Users\Acer ES 15\Documents\GitHub\MediaPlugin\samples\MediaSample\MediaSample.Droid\obj\Debug\81\adb.props
+C:\Users\Acer ES 15\Documents\GitHub\MediaPlugin\samples\MediaSample\MediaSample.Droid\obj\Debug\81\MediaSample.Droid.csprojAssemblyReference.cache
+C:\Users\Acer ES 15\Documents\GitHub\MediaPlugin\samples\MediaSample\MediaSample.Droid\obj\Debug\81\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\Acer ES 15\Documents\GitHub\MediaPlugin\samples\MediaSample\MediaSample.Droid\obj\Debug\81\res.flag

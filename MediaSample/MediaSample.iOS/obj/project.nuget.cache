@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "x0shP4cutXgQzVejXKGcdaSBWX/Y4LS+28Hgg+/dfxoZUNatVR9Ihz3LyEjxHURNSSJZtMh9pcKds7AqMrM17g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer ES 15\\Documents\\GitHub\\MediaPlugin\\samples\\MediaSample\\MediaSample.iOS\\MediaSample.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer ES 15\\.nuget\\packages\\plugin.permissions\\3.0.0.12\\plugin.permissions.3.0.0.12.nupkg.sha512",
+    "C:\\Users\\Acer ES 15\\.nuget\\packages\\xam.plugin.media\\4.0.1.5\\xam.plugin.media.4.0.1.5.nupkg.sha512",
+    "C:\\Users\\Acer ES 15\\.nuget\\packages\\xamarin.forms\\3.1.0.637273\\xamarin.forms.3.1.0.637273.nupkg.sha512"
+  ],
+  "logs": []
+}
